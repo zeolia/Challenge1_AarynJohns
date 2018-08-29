@@ -1,5 +1,5 @@
-#### Challenge1_AarynJohns
-## Challenge: Git, GitHub, and Markdown
+## Challenge1_AarynJohns
+#### Challenge: Git, GitHub, and Markdown
 
 [Link to my final project from last semester](https://naganadel.epizy.com/MoodBoard_index.php "MoodBoard")
 
