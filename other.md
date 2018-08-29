@@ -1,1 +1,1 @@
-[Link to README.md](../README.md)
+[Link to README.md](../master/README.md)
